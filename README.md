@@ -1,3 +1,7 @@
+This was for python2.7 on AWS Lambda
+
+You will need to do some fixing for python3+
+
 # rds-s3-backup-lambda
 Python script to backup RDS databases to an s3 bucket on AWS
 
